@@ -1,0 +1,5 @@
+D:\Android\AndroidStudioProjects\FinalTask\app\build\intermediates\classes\debug
+D:\Android\AndroidStudioProjects\FinalTask\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-9b68fa5de2de23d0abf5d20ba3e0a64d64a35d82.jar
+D:\Android\AndroidStudioProjects\FinalTask\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-2a086f6c6d7b9e6630467b8fa065b5c6d94dd2dc.jar
+D:\Android\AndroidStudioProjects\FinalTask\app\build\intermediates\pre-dexed\debug\classes-ccf4bae05cc8e3df493521ac295e3ef7c9724726.jar
+D:\Android\AndroidStudioProjects\FinalTask\app\build\intermediates\pre-dexed\debug\classes-fcdfc4d888fc0f53e10c9d649e9bdf7cd2da9901.jar
