@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#c78d15"
+        android:gravity="center"
+        android:text="This is my second fragment"
+        android:textStyle="italic" 
+        android:textSize="20dp"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Entered text will be shown in the first fragment"
+        android:id="@+id/textToFirstFragment"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/goToFirstFragment"
+        android:text="Go to first fragment"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Text from first fragment"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:id="@+id/textFragment"/>
+</LinearLayout>

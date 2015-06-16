@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:text="This is my first fragment"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:background="#4b8d1c"
+        android:gravity="center_horizontal"
+       />
+    
+    
+    <EditText 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Entered text will be shown in the second fragment"
+        android:id="@+id/nextFragmentText"/>
+    <Button 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/goToNextFragment"
+        android:text="Go to second fragment"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textFromSecondFragment"
+        android:text="Text from second fragment will be shown here"
+        android:textStyle="italic"
+        android:textSize="20sp"/>
+
+</LinearLayout>
+<!-- From: file:/D:/Android/AndroidStudioProjects/Task2/app/src/main/res/layout/first_fragment.xml -->
